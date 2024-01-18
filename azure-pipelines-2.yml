@@ -18,7 +18,7 @@ strategy:
     Python27:
 
 
-      python.version: '3.7'
+      python.version: '3.8'
 
 
 
