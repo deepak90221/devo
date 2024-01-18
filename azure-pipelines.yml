@@ -39,7 +39,7 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 
-- script: python "add.py"
+- script: python "Strong.py"
 
 
 
